@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Stefan L. Smith]]></title>
         <description><![CDATA[Stefan L. Smith]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stefan-l-smith/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 06:03:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 06:05:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stefan-l-smith/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to my new website! I am currently in the process of setting up my site to include performance information and other important deets regarding my violin, viola, and composition endeavors. Stay tuned!</p>]]></description>
-            <link>undefinedaa8a919a-0129-4618-85d9-987824503790/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/195b4e0a-7083-4e94-aff5-e788f38dea29.jpg">]]></description>
+            <link>https://thegrid.ai/stefan-l-smith/aa8a919a-0129-4618-85d9-987824503790/index.html</link>
             <guid isPermaLink="false">aa8a919a-0129-4618-85d9-987824503790</guid>
-            <pubDate>Thu, 21 Jan 2016 06:03:33 GMT</pubDate>
+            <pubDate>Thu, 21 Jan 2016 06:04:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
