@@ -10,11 +10,10 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9274973
 color:
-  saturation: 0.7223416
-  brandStrength: 0.3746294
+  saturation: 0.4892589
   lightness: 0.31203
+  brandStrength: 0.3746294
   brandColors:
     - '#A690A4'
     - '#B68F9D'
@@ -22,5 +21,6 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   rhythmicContrast: 1
+typography_spectrum: 0.9274973
 layout_spectrum: 1
 name: Stefan L. Smith
