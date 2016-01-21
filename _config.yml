@@ -1,9 +1,7 @@
-favicon: null
 name: Stefan L. Smith
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.77692
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4409237
-  brandStrength: 0.3746294
-  rhythmicContrast: 0.6868958
   brandColors:
     - '#222222'
     - '#8b8b8b'
     - '#b5b5b5'
     - '#686868'
     - '#3e3e3e'
+  brandStrength: 0.3746294
   lightness: 0.3754028
-typography_spectrum: 0.9274973
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.4409237
+  rhythmicContrast: 0.6868958
+purpose: []
