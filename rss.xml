@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Stefan L. Smith]]></title>
-        <description><![CDATA[Stefan L. Smith]]></description>
+        <title><![CDATA[Violinist | Violist | Composer | Educator]]></title>
+        <description><![CDATA[Violinist | Violist | Composer | Educator]]></description>
         <link>https://thegrid.ai/stefan-l-smith/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 00:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 08:46:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stefan-l-smith/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/stefan-l-smith/aa8a919a-0129-4618-85d9-987824503790/index.html</link>
             <guid isPermaLink="false">aa8a919a-0129-4618-85d9-987824503790</guid>
             <pubDate>Mon, 25 Jan 2016 00:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Private Instruction Openings]]></title>
-            <description><![CDATA[<article><h1>Private Instruction Openings</h1><p>I am currently opening my own private studio for violin, Viola and composition students. Feel free to contact me for further information. Have a great day! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05977988f232038db2fac6e7b554fd4a7114d82c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/stefan-l-smith/private-instruction-openings/index.html</link>
-            <guid isPermaLink="false">e2a03776-d864-4380-9593-9c0678a52660</guid>
-            <pubDate>Thu, 21 Jan 2016 23:58:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
