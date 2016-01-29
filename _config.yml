@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: 'Violinist | Violist | Composer | Educator'
+title: Stefan L. Smith
 cta:
   domain: null
   bucket: null
